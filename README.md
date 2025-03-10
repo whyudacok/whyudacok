@@ -12,7 +12,7 @@
   <ul>
     <li><b>Name:</b> Wahyuu</li>
     <li><b>Gender:</b> Ban Mobil</li>
-    <li><b>My Istri:</b> Chisato, siesta, Itsuki, alya, dll🤭</li>
+    <li><b>My Istri:</b> Chisato, siesta, Itsuki, alya:v</li>
     <li><b>Anim fav:</b> Lycoris Recoil</li>
     <li><b>Website:</b> <a href="https://whyuck.my.id">whyuck.my.id</a></li>
   </ul>
