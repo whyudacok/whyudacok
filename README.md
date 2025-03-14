@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Wahyuu 👋</h1>  
+<h1 align="center">Hello! I'm Whyuu 👋</h1>  
 
 <p align="center">
   <img src="https://c.tenor.com/I4agzayzaXIAAAAC/tenor.gif" width="200">
@@ -10,7 +10,7 @@
     <img src="https://c.tenor.com/r9TC5OqhdQYAAAAC/tenor.gif" align="right" width="100">
   </div>
   <ul>
-    <li><b>Name:</b> Wahyuu</li>
+    <li><b>Name:</b> Whyuu</li>
     <li><b>Gender:</b> Ban Mobil</li>
     <li><b>My Istri:</b> Chisato, siesta, Itsuki, alya:v</li>
     <li><b>Anim fav:</b> Lycoris Recoil</li>
@@ -41,8 +41,3 @@
   <a href="https://trakteer.id/slynnn"><strong>Traktir Es Krim</strong></a>  
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/W3wUoMhulrwAAAA1/lycoris-recoil-lycoris.webp" width="150">
-  <br>
-  <em>Arigatou gozaimasu!</em>  
-</p>  
